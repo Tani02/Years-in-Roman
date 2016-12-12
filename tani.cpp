@@ -1,5 +1,4 @@
 #include < constream.h >
-#include < conio.h >
 
   void main() {
     clrscr();
